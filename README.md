@@ -1,7 +1,3 @@
-# energy-timeseries-forecasting
-Prévision de séries temporelles multimodèles de la demande en électricité à l’aide d’approches statistiques et deep learning
-
-
 # ⚡ Energy Demand Forecasting – Time Series Modeling
 
 > Prévision de la consommation électrique journalière à l'aide de modèles statistiques, machine learning et deep learning.
